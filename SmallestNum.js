@@ -12,6 +12,7 @@ function SmallestNumber(arr) {
   return min;
 }
 
-let arr = [5, 6, 7, 8, 9, 12, 3, 4];
+// let arr = [5, 6, 7, 8, 9, 12, 3, 4];
+let arr = [-333, -456, -5678, 432, -5654];
 let sol = SmallestNumber(arr);
 console.log(sol);
